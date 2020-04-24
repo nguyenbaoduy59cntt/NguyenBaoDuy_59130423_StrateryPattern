@@ -3,22 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package contextpackage;
-
-import tinhtoanpackage.ITinh;
+package bai1;
 
 /**
  *
  * @author Admin
  */
-public class Context{
+public class Context {
     ITinh tinhToan;
 
-    public ITinh getTinhToan() {
+    public ITinh getTinhToan() 
+    {
         return tinhToan;
     }
 
-    public void setTinhToan(ITinh tinhToan) {
+    public void setTinhToan(ITinh tinhToan) 
+    {
         this.tinhToan = tinhToan;
     }
     
