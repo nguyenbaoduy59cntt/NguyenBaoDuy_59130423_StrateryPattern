@@ -19,6 +19,5 @@ public class MainActivity {
         
         pt.setTinhToan(new Tru());
         System.out.println("54 - 78 = "+ pt.tinh(54, 78));
-      
     }
 }
